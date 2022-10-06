@@ -355,6 +355,7 @@
 "Assets/Scipts/CollisionHandler.cs"
 "Assets/Scipts/Movement.cs"
 "Assets/Scipts/Oscillator.cs"
+"Assets/Scipts/QuitApplication.cs"
 -langversion:9.0
 
 /deterministic

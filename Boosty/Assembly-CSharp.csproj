@@ -39,6 +39,7 @@
      <Compile Include="Assets\Scipts\Movement.cs" />
      <Compile Include="Assets\Scipts\Oscillator.cs" />
      <Compile Include="Assets\Scipts\CollisionHandler.cs" />
+     <Compile Include="Assets\Scipts\QuitApplication.cs" />
     <Reference Include="UnityEngine">
         <HintPath>D:\Program Files\Unity Hub\2021.3.10f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
