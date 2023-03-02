@@ -1,1 +1,1 @@
-# Boosty
+# Boosty Rocket Game
